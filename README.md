@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kopparallasasikumar
 - 👀 I’m interested in hacking.
 - 🌱 I’m currently learning just some basic coding languages.
-- 💞️ I’m looking to collaborate with you to leaen about hacking.
+- 💞️ I’m looking to collaborate with you to learn about hacking.
 - 📫 How to reach me by commit changes and save.its will reaches to u.
 
 <!---
